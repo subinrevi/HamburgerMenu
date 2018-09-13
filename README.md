@@ -1,6 +1,9 @@
 # HamburgerMenu
 Creates a sliding hamburger menu programatically using Swift
 
+## Repository URL 
+
+https://github.com/subinrevi/HamburgerMenu.git
 
 ## Description
 
