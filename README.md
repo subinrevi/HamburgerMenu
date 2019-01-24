@@ -7,7 +7,7 @@ https://github.com/subinrevi/HamburgerMenu.git
 
 ## Description
 
-Programatically created Sliding menu for iOS applications using autolayout. Import HamburgerMenu.swift and MenuLauncher.swift classes in your project. Feel free to modify and try out yourself.
+Programatically creates a Sliding menu for iOS applications using autolayout. Import HamburgerMenu.swift and MenuLauncher.swift classes in your project. Feel free to modify and try out yourself.
 
 ### Sliding menu animation
 
